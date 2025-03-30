@@ -5,6 +5,9 @@ import Home from './pages/Home';
 import Dashboard from './pages/Dashboard';
 import Rewards from './pages/Rewards';
 import About from './pages/About';
+import Marketplace from './pages/Marketplace';
+import TeamMembers from './pages/TeamMembers';
+
 
 function App() {
   return (
@@ -16,6 +19,8 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/rewards" element={<Rewards />} />
           <Route path="/about" element={<About />} />
+          <Route path="/marketplace" element={<Marketplace />} />
+          <Route path="/team" element={<TeamMembers />} />
         </Routes>
       </div>
     </Router>

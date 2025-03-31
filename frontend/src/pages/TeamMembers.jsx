@@ -6,25 +6,25 @@ const TeamMembers = () => {
     {
       id: 1,
       name: "Yash",
-      contribution: "Smart Contract Development & Frontend Blockchain Integration",
+      contribution: "Smart Contract Development, Frontend Blockchain Integration & Technical Lead ",
       techStack: "Solidity, Web3.js, Foundry, React",
       social: {
-        linkedin: "https://linkedin.com/in/yash",
-        github: "https://github.com/yash",
-        twitter: "https://twitter.com/yash",
-        email: "yash@verdifi.com"
+        linkedin: "https://www.linkedin.com/in/singhyashh/",
+        github: "https://github.com/singhyash05",
+        twitter: "https://x.com/singhyashhhhh",
+        email: "yashsingh5609@gmail.com"
       }
     },
     {
       id: 2,
       name: "Shreyansh",
-      contribution: "Frontend Development",
+      contribution: "Frontend Development and Team Leader",
       techStack: "React.js, JavaScript, HTML, CSS, Tailwind CSS",
       social: {
-        linkedin: "https://linkedin.com/in/shreyansh",
+        linkedin: "https://in.linkedin.com/in/shreyansh-vinay-60734b337",
         github: "https://github.com/shreyansh",
-        twitter: "https://twitter.com/shreyansh",
-        email: "shreyansh@verdifi.com"
+        twitter: "https://x.com/ishreyansh05",
+        email: "shreyanshvinay919@gmail.com"
       }
     },
     {

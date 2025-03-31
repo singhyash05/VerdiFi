@@ -7,6 +7,8 @@ import Rewards from './pages/Rewards';
 import About from './pages/About';
 import Marketplace from './pages/Marketplace';
 import TeamMembers from './pages/TeamMembers';
+import RegistrationOfOrgs from './pages/RegistrationOfOrgs';
+
 
 
 function App() {
@@ -21,6 +23,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/marketplace" element={<Marketplace />} />
           <Route path="/team" element={<TeamMembers />} />
+          <Route path="/registration" element={<RegistrationOfOrgs />} />
         </Routes>
       </div>
     </Router>

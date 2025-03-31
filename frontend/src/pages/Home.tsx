@@ -15,9 +15,7 @@ const Home = () => {
           Revolutionizing waste management through blockchain technology. 
           Earn rewards for responsible disposal and contribute to a cleaner future.
         </p>
-        <button className="mt-8 bg-green-700 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-green-600 transition-all duration-300 hover:scale-105">
-          Connect Wallet
-        </button>
+       
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">

@@ -31,9 +31,9 @@
               <Link to="/team" className="text-gray-300 hover:text-green-400">
                 Team
               </Link>
-              <button className="bg-green-600/80 text-white px-4 py-2 rounded-lg hover:bg-green-500/80 transition-colors backdrop-blur-sm">
+              {/* <button className="bg-green-600/80 text-white px-4 py-2 rounded-lg hover:bg-green-500/80 transition-colors backdrop-blur-sm">
                 Connect Wallet
-              </button>
+              </button> */}
             </div>
           </div>
         </div>

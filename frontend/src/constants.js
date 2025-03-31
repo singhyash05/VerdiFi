@@ -1,8 +1,8 @@
-VerdiFiTokens_Address_Holesky = "0x3d7f16f43A7E71b12eE6A3e406Bf60041E281fe8"
-Verifier_Address_Holesky = "0xD4BBC178f19E2f9A00a9A9D4fF0D7E6b18f1D729"
-VerdiFiCore_Address_Holesky = "0xD4f31C093d562eD8CD9C7585a9787c8752843c25"
+export const VerdiFiTokens_Address_Holesky = "0x3d7f16f43A7E71b12eE6A3e406Bf60041E281fe8"
+export const Verifier_Address_Holesky = "0xD4BBC178f19E2f9A00a9A9D4fF0D7E6b18f1D729"
+export const VerdiFiCore_Address_Holesky = "0xD4f31C093d562eD8CD9C7585a9787c8752843c25"
 
-VerdiFiToken_ABI = [
+export const VerdiFiToken_ABI = [
 	{
 		"inputs": [
 			{
@@ -330,7 +330,7 @@ VerdiFiToken_ABI = [
 ]
 
 
-VerdiFiCore_ABI = [
+export const VerdiFiCore_ABI = [
 	{
 		"inputs": [
 			{
@@ -812,3 +812,4 @@ VerdiFiCore_ABI = [
 		"type": "function"
 	}
 ]
+
